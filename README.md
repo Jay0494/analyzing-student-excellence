@@ -130,4 +130,3 @@ Despite the efforts made by educators and institutions to foster student learnin
 5. **Engage Parents and Guardians**:
    - Involve parents in the process by sharing individual performance reports and offering resources they can use at home to support their children's learning. Regular parent-teacher meetings could discuss student progress and areas for improvement.
 
-By addressing these areas, the overall student performance in numeracy and literacy can be improved, with a particular focus on bringing more students into the proficient and advanced levels.
