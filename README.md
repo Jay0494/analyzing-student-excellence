@@ -62,6 +62,7 @@ Overall average = AVERAGEX('School data',
    - **Power BI**: Utilized for building the final dashboards, visualizations, and extracting insights through interactive data exploration.
 
 These data processing steps ensured the dataset was properly cleaned, structured, and optimized for analysis, allowing for accurate identification of trends and insights into student performance.
+![Screenshot_20241015-095648_Power BI](https://github.com/user-attachments/assets/cd2f986e-cc1f-4bca-bb97-f045bb3cbfe7)
 
 ### **Insights**
 
